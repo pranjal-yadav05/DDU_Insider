@@ -1,6 +1,6 @@
 # DDU Insider Blog
 
-![DDU Insider Logo](./assets/png/logo-no-background.png)
+![DDU Insider Logo](./src/assets/png/logo-no-background.png)
 
 DDU Insider is a blog platform for Dharmsinh Desai University (DDU) that aims to provide valuable insights, updates, and resources to students, faculty, and the broader community.
 
@@ -20,17 +20,14 @@ To get started with DDU Insider, follow these steps:
     git clone https://github.com/pranjal-yadav05/ddu_insider.git
 
 2. Navigate to the project directory:
-
 ```
     cd ddu_insider
 
 3. Install dependencies:
-
 ```
     npm install
 
 4. Start the development server:
-
 ```
     npm run dev
 
@@ -42,17 +39,14 @@ We welcome contributions from the community! If you'd like to contribute to DDU 
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
-
 ```
     git checkout -b feature/my-feature
 
 3. Make your changes and commit them:
-
 ```
     git commit -m "Add my feature"
 
 4. Push to your branch:
-
 ```
     git push origin feature/my-feature
 
