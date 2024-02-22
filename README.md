@@ -1,4 +1,4 @@
-<img src="./src/assets/png/logo-no-background.png" alt="DDU Insider Logo" width="500px">
+<img src="./animated.gif" alt="DDU Insider Logo" width="500px">
 <br><br>
 
 DDU Insider is a blog platform for Dharmsinh Desai University (DDU) that aims to provide valuable insights, updates, and resources to students, faculty, and the broader community.
